@@ -3,5 +3,7 @@
 
 
 
-- 📫 How to reach me: forwave@outlook.com
+- 📫 How to reach me:
+* 📤 Email : frowave@outlook.com
+* 📞 Phone Number : +964 750 7437500
 
